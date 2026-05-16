@@ -13,7 +13,7 @@ This project simulates a real-world batch data engineering pipeline where raw ec
 
 In this project, I built a production-style Ecommerce Lakehouse pipeline using:
 <center><img src="/docs/project%20architecture%20%2B%20design%20thinking.png" alt="Project Architecture" width="400" align="left"></center>
-
+<br clear="left"/>
 
 - PySpark
 - Databricks
